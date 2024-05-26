@@ -1,6 +1,6 @@
 # Creating a dashboard on IBM Cognos
 
-This was a project in the IBM Data Analyst course series which utilizaes visualization skills to create an interacive dashboard 
+This was a project in the IBM Data Analyst course series which utilizes visualization skills to create an interactive dashboard 
 
 **Dataset Used in this Assignment**
 
