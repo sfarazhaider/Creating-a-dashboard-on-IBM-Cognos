@@ -1,17 +1,12 @@
+# Creating a dashboard on IBM Cognos
+
+This was a project in the IBM Data Analyst course series which utilizaes visualization skills to create an interacive dashboard 
+
 **Dataset Used in this Assignment**
-The dataset used in this assignment comes from the following source: https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/ under a ODbL: Open Database License.
 
-The 2 files used are  m5_survey_data_demographics.csv and m5_survey_data_technologies_normalised.csv. 
+The dataset used in this assignment comes from the following source: 
 
-**TASKS:**
-
-Create 3 dashboards (3 separate tabs under a single dashboard) as follows:
-
-One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Current Technology Usage.
-
-One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Future Technology Trend.
-
-One dashboard using the 2 x 2 rectangle areas tabbed template - rename this dashboard tab to Demographics.
+https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/ 
 
 **TASK 1**
 
